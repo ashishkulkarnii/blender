@@ -1,0 +1,5 @@
+# ignore .blend1 files
+*.blend1
+
+# ignore PNG files inside render folders
+**/render/*.png
